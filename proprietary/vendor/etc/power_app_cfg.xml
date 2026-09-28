@@ -52,7 +52,7 @@ any software that is unrelated to enhancing end-user experience. -->
         </Activity>
     </Package>
     <!-- SPD: add for mt6877 platform MLBB 90/120 fps boost by jingwen.pan on 20221228 end -->
-    <!-- SPD: add to optimize X6815D freefire 90 fps by jingwen.pan on 20230625 start -->
+    <!-- SPD: add to optimize X6815C freefire 90 fps by jingwen.pan on 20230625 start -->
     <Package name="com.dts.freefireth">
         <Activity name="Common">
             <FPS value="Common">
@@ -83,7 +83,7 @@ any software that is unrelated to enhancing end-user experience. -->
             </FPS>
         </Activity>
     </Package>
-    <!-- SPD: add to optimize X6815D freefire 90 fps by jingwen.pan on 20230625 end -->
+    <!-- SPD: add to optimize X6815C freefire 90 fps by jingwen.pan on 20230625 end -->
     <Package name="com.tencent.tmgp.pubgmhd">
         <Activity name="Common">
             <FPS value="Common">
