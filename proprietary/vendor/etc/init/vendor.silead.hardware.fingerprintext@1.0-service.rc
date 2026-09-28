@@ -6,3 +6,4 @@ service fpexts_hal /vendor/bin/hw/vendor.silead.hardware.fingerprintext@1.0-serv
 
 #on property:vendor.silead.fp.ext.enable=1
 #    start fpexts_hal
+

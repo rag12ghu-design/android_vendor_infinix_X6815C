@@ -1,5 +1,5 @@
 <TetrasSRParams>
-    <SRVersion>SenseSR_T_MTK_V3.0.1.2085_M1.60_x6815c</SRVersion>
+    <SRVersion>SenseSR_T_MTK_V3.0.1.2075_M1.60_x6815c</SRVersion>
     <PreSetParamsGroup>
         <Mutable_Model_Group_GainNum>6</Mutable_Model_Group_GainNum>
         <Mutable_Denoise_Model_Choose>true</Mutable_Denoise_Model_Choose>
@@ -2307,7 +2307,7 @@
                     </ParamAlignment>
                     <ParamSharpness>
                         <Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
-                        <Mutable_EdgeAmount>7.5</Mutable_EdgeAmount>
+                        <Mutable_EdgeAmount>10.392157</Mutable_EdgeAmount>
                         <Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
                         <Mutable_Spec_EdgeEnhance>0.700000</Mutable_Spec_EdgeEnhance>
                         <Mutable_Spec_ContrastEnhance>0.700000</Mutable_Spec_ContrastEnhance>
